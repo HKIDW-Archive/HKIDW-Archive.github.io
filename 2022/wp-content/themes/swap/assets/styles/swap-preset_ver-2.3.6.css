@@ -1,0 +1,100 @@
+/*
+Theme Name: swap
+Author: Dicky
+Author URI: http://swwwap.hk
+Description: This is a  bootstrap theme for wordpress. 
+Version: 1.0
+License: swwwap
+*/
+
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Cormorant:wght@300;400;500&family=Montserrat:wght@300;400&family=Nuosu+SIL&family=Prata&family=Unna&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+ 
+h1,h2,h3,h4,h5,h6,h7,label,.btn,input,select,textarea,a,button{font-family: 'Libre Caslon Display', serif !important;color: #FFF;}
+h1	{ font-size: 4em; line-height: 1;letter-spacing: -1px}
+h2 	{ font-size: 3.2em;line-height: 1;letter-spacing: -1px}
+h3  { font-size: 2em;line-height: 1.2;letter-spacing: -.4px}
+h4 	{ font-size: 1.2em;line-height: 1.2;}
+h5 	{ font-size: .9em;line-height: 1.2;font-weight: normal}
+h6 	{ font-size: .65em;line-height: 1.2;font-family: 'Montserrat',  'Noto Serif TC', 'Helvetica Neue', 'Microsoft JhengHei', '微軟正黑體', 'Microsoft YaHei', sans-serif !important;;font-weight: normal}
+footer p{font-size: .9em;line-height: 1 }
+
+
+.color-white{color: #FFF}
+.color-gray,a.color-gray{color: #7E7E7E }
+.color-dark-gray,h5.color-gray,h6.color-gray{color: #AAA}
+.color-black{color: #333}
+
+
+
+p	,.text-inner-wrap li{margin-bottom: 10px;font-family:'Montserrat',   'Helvetica Neue', 'Microsoft JhengHei', '微軟正黑體', 'Microsoft YaHei', sans-serif !important;;color: #FFF;font-size:.9em;line-height: 1.4;letter-spacing: -.2px;}
+strong{font-weight: bold !important}
+p.ex{font-size: 1.2em;line-height: 1.4}
+
+
+
+a{color: #FFF;cursor: pointer !important; pointer-events: auto;}
+a:hover{color: #999;text-decoration: none}
+
+
+
+
+.upper{text-transform: uppercase}
+.normal,footer a,.normal a{font-family: 'Montserrat',   'Microsoft JhengHei', '微軟正黑體', 'Microsoft YaHei', sans-serif !important;}
+footer a{text-decoration: underline}
+.thin{font-weight: 300 !important}
+.cap{text-transform: capitalize}]
+.border{border-bottom: 2px solid #000}
+.inline{display: inline}
+.inline-block{display: inline-block}
+.col-no-padding{padding: 0}
+
+.black{color: #222}
+
+h6.bold{letter-spacing: 1px}
+
+.no-margin{margin: 0}
+.margin-auto{margin-top: auto;margin-bottom: auto;}
+
+.margin-140-top{margin-top: 140px}
+.margin-120-top{margin-top: 120px}
+.margin-100-top{margin-top: 100px}
+.margin-80-top{margin-top: 80px}
+.margin-60-top{margin-top: 60px}
+.margin-50-top{margin-top: 50px}
+.margin-40-top{margin-top: 35px}
+.margin-30-top{margin-top: 30px}
+.margin-20-top{margin-top: 20px}
+.margin-15-top{margin-top: 15px}
+.margin-10-top{margin-top: 10px}
+.margin-5-top{margin-top: 5px}
+.margin-0-top{margin-top: 0px !important}
+
+
+.margin-200-bottom{margin-bottom: 200px}
+.margin-180-bottom{margin-bottom: 180px}
+.margin-160-bottom{margin-bottom: 160px}
+.margin-140-bottom{margin-bottom: 140px}
+.margin-120-bottom{margin-bottom: 120px}
+.margin-100-bottom{margin-bottom: 100px}
+.margin-80-bottom{margin-bottom: 80px}
+.margin-60-bottom{margin-bottom: 60px}
+.margin-40-bottom{margin-bottom: 40px}
+.margin-30-bottom{margin-bottom: 30px}
+.margin-20-bottom{margin-bottom: 20px}
+.margin-15-bottom{margin-bottom: 15px}
+
+.margin-10-bottom{margin-bottom: 10px}
+.margin-5-bottom{margin-bottom: 5px}
+.margin-0-bottom{margin-bottom: 0}
+
+.padding-0-top{padding-top: 0 !important;margin-bottom: 0}
+.padding-0-bottom{padding-bottom: 0 !important;margin-bottom: 0}
+
+
+.padding-20{padding: 20px}
+.padding-30{padding: 30px}
+.padding-40{padding: 40px}
+.padding-60{padding: 60px}

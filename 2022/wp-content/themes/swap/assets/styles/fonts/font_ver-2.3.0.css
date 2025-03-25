@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Macklin Display Light';
+  src: url('FontsFree-Net-MacklinDisplay-Light.eot'); /* IE9 Compat Modes */
+  src: url('FontsFree-Net-MacklinDisplay-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('FontsFree-Net-MacklinDisplay-Light.woff') format('woff'), /* Modern Browsers */
+       url('FontsFree-Net-MacklinDisplay-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('FontsFree-Net-MacklinDisplay-Light.svg#9acf4b17fa35d13f656e9ba9e7510150') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'Macklin Sans Medium';
+  src: url('MacklinSans-Medium.eot'); /* IE9 Compat Modes */
+  src: url('MacklinSans-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MacklinSans-Medium.woff') format('woff'), /* Modern Browsers */
+       url('MacklinSans-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MacklinSans-Medium.svg#045a6ed60f1ac990fefd553df866bc23') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
